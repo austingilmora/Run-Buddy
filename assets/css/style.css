@@ -78,6 +78,20 @@ section {
     position: relative;
 }
 
+.hero-text {
+    display: block;
+    position: absolute;
+    bottom: 200px;
+    left: 400px;
+    color: white;
+}
+.hero-text h1 {
+    color:#fce138;
+    text-align: right;
+    font-size: 42px;
+    font-style: italic;
+}
+
 .hero-form {
     background-color: #fce138;
     color:#024e76;
