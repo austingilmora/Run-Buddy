@@ -8,3 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ##Website
+https://austingilmora.github.io/Run-Buddy/
+
+##Contribution 
+Made with ❤️ by Austin 
