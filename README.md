@@ -12,3 +12,5 @@ https://austingilmora.github.io/Run-Buddy/
 
 ##Contribution 
 Made with ❤️ by Austin 
+
+# Run Buddy Inc.
